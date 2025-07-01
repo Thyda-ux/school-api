@@ -3,7 +3,6 @@ import db from './models/index.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
-
 const NUM_TEACHERS = 50;
 const NUM_COURSES = 100;
 const NUM_STUDENTS = 2000;
